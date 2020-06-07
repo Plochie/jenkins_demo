@@ -15,7 +15,6 @@ public class DemoApplication implements ApplicationRunner {
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
 		System.out.println("Project started and ended successfully.");
-		System.out.println();
 	}
 
 }
